@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuliyaNaletskaya
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning the automated testing
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning the frontend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
